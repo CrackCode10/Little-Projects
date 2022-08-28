@@ -1,0 +1,8 @@
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\bin\Debug\Self Assigment W2.exe.config
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\bin\Debug\Self Assigment W2.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\bin\Debug\Self Assigment W2.pdb
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\obj\Debug\Self Assigment W2.csproj.AssemblyReference.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\obj\Debug\Self Assigment W2.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\obj\Debug\Self Assigment W2.csproj.CoreCompileInputs.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\obj\Debug\Self Assigment W2.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W2\Self Assigment W2\obj\Debug\Self Assigment W2.pdb

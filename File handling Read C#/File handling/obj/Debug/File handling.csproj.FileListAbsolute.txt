@@ -1,0 +1,8 @@
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\bin\Debug\File handling.exe.config
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\bin\Debug\File handling.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\bin\Debug\File handling.pdb
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\obj\Debug\File handling.csproj.AssemblyReference.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\obj\Debug\File handling.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\obj\Debug\File handling.csproj.CoreCompileInputs.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\obj\Debug\File handling.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\File handling\File handling\obj\Debug\File handling.pdb

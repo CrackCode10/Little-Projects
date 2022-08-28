@@ -1,0 +1,16 @@
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\obj\Debug\Self Assigment W3.csproj.AssemblyReference.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\obj\Debug\Self Assigment W3.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\obj\Debug\Self Assigment W3.csproj.CoreCompileInputs.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\bin\Debug\Self Assigment W3.exe.config
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\bin\Debug\Self Assigment W3.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\bin\Debug\Self Assigment W3.pdb
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\obj\Debug\Self Assigment W3.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\Self Assigment W3\Self Assigment W3\obj\Debug\Self Assigment W3.pdb
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\bin\Debug\Self Assigment W3.exe.config
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\bin\Debug\Self Assigment W3.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\bin\Debug\Self Assigment W3.pdb
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\obj\Debug\Self Assigment W3.csproj.AssemblyReference.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\obj\Debug\Self Assigment W3.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\obj\Debug\Self Assigment W3.csproj.CoreCompileInputs.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\obj\Debug\Self Assigment W3.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\Logic Question 2\Self Assigment W3\obj\Debug\Self Assigment W3.pdb

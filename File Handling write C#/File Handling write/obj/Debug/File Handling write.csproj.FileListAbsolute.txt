@@ -1,0 +1,8 @@
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\bin\Debug\File Handling write.exe.config
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\bin\Debug\File Handling write.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\bin\Debug\File Handling write.pdb
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\obj\Debug\File Handling write.csproj.AssemblyReference.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\obj\Debug\File Handling write.csproj.SuggestedBindingRedirects.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\obj\Debug\File Handling write.csproj.CoreCompileInputs.cache
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\obj\Debug\File Handling write.exe
+E:\Semester 2 (Spring)\OOP's\Week 1\File Handling write\File Handling write\obj\Debug\File Handling write.pdb

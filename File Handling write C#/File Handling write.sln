@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Handling write", "File Handling write\File Handling write.csproj", "{295AB709-7EF5-404A-8C2D-8F2CC8B97DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295AB709-7EF5-404A-8C2D-8F2CC8B97DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295AB709-7EF5-404A-8C2D-8F2CC8B97DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295AB709-7EF5-404A-8C2D-8F2CC8B97DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295AB709-7EF5-404A-8C2D-8F2CC8B97DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D01B283F-875F-4DDE-A8AB-3DCD02C85AF6}
+	EndGlobalSection
+EndGlobal
